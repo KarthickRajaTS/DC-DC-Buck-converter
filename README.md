@@ -89,7 +89,8 @@ This section documents how the actual pin configuration of the LM2596 was verifi
 ### 🖼️ Screenshot from SPICE Model
 
 
-![IC_pin_order_reference_from_spice_model](IC%20pin%20order%20reference%20from%20spice%20model.png)
+![IC Pin Order Reference](IC_pin_order_reference_from_spice_model.png)
+
 
 
 
