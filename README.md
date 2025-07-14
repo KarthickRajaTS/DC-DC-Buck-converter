@@ -51,7 +51,8 @@ The schematic was drawn in **LTSpice**, and the IC pins were mapped based on the
 
 The output waveform shows the voltage ramping up to a steady **3.3V**, confirming proper operation.
 
-![Pin order extracted from .LIB file](./IC_pin_order_reference_from_spice_model.png)
+![LM2596 Output Waveform](images/LM2596%20correct%20wave%20form.png)
+
 
 ---
 
@@ -86,8 +87,8 @@ This section documents how the actual pin configuration of the LM2596 was verifi
 
 ### 🖼️ Screenshot from SPICE Model
 
-![Pin order extracted from .LIB file](./ic_pin_order_spicemodel.png)
 
+![IC Pin Order Reference](images/IC_pin_order_reference_from_spice_model.png)
 
 
 ### 📌 Extracted from `.LIB` file:
